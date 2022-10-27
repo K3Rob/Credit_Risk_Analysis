@@ -54,6 +54,3 @@ This code employs different techniques to train and evaluate models on credit ca
 
 While all of the models did well on precision the recall was best on the Easy Ensemble AdaBoost Classifier. The confusion matrix shows it has the best accuracy, minimizing the number of incorrect classifications of any of the other models. The F1 confirms this at .97 only the Balanced Random Forest Classifier appears to do nearly as well.
 
-There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
-
